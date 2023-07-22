@@ -1,0 +1,19 @@
+﻿  test.cpp
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(70,29): warning C4099: “Stack”: 类型名称以前使用“class”现在使用的是“struct”
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(75,29): warning C4099: “Stack”: 类型名称以前使用“class”现在使用的是“struct”
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(82,19): warning C4099: “Stack”: 类型名称以前使用“class”现在使用的是“struct”
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(89,12): error C2248: “Stack::Init”: 无法访问 private 成员(在“Stack”类中声明)
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(53,8): message : 参见“Stack::Init”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(90,13): error C2248: “Stack::Push”: 无法访问 private 成员(在“Stack”类中声明)
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(59,8): message : 参见“Stack::Push”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(91,13): error C2248: “Stack::Push”: 无法访问 private 成员(在“Stack”类中声明)
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(59,8): message : 参见“Stack::Push”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(92,13): error C2248: “Stack::Push”: 无法访问 private 成员(在“Stack”类中声明)
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(59,8): message : 参见“Stack::Push”的声明
+D:\vs2022实例\7_22_class\7_22_class\test.cpp(49,7): message : 参见“Stack”的声明
