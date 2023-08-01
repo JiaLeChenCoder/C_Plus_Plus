@@ -1,0 +1,5 @@
+﻿  func.cpp
+  test.cpp
+D:\vs2022实例\8_1_inlinefunc\8_1_inlinefunc\test.cpp(36,7): warning C4101: “d1”: 未引用的局部变量
+  正在生成代码...
+  8_1_inlinefunc.vcxproj -> D:\vs2022实例\8_1_inlinefunc\x64\Debug\8_1_inlinefunc.exe
